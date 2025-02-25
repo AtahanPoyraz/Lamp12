@@ -1,6 +1,7 @@
 #!/bin/sh
 ###########################################
 # Bash script to install an AMP stack     #
+# Developed by Atahan & Bilgehan Poyraz   #
 ###########################################
 
 # Special Color
