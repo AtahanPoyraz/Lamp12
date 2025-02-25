@@ -1,6 +1,6 @@
 #!/bin/sh
 ###########################################
-# Bash script to install an AMP stack                                             #
+# Bash script to install an AMP stack     #
 ###########################################
 
 # Special Color
